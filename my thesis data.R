@@ -108,7 +108,6 @@ attach(my_thesis_whole_data2)
 c<-aov(city.number~syllable.duration,data=my_thesis_whole_data)
 summary(c)
 
-citation()
 
 #Finding median high frequency for all cities
 
