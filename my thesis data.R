@@ -103,12 +103,6 @@ attach(season)
 ggboxplot(season,x="cities.data",y="syllable.duration",xlab = "CITIES",ylab = "SYLLABLE DURATION(secs)",fill = "gray",palette = "jco")+theme(text = element_text(size=13,family = "serif"))
 
 
-#ANOVA BETWEEN CITIES ON THE BASIS OF AVERAGE SYLLABLE DURATION FOR EACH MONTH
-attach(my_thesis_whole_data2)
-c<-aov(city.number~syllable.duration,data=my_thesis_whole_data)
-summary(c)
-
-
 #Finding median high frequency for all cities
 
 #High frequency
