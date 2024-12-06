@@ -1,4 +1,4 @@
-##PLOTS FOR RESEARCH ON COMPARATIVE ACCOUNT OF COMMON MYNA CALLS IN DIFFERENT HUMAN INFLUENCED ENVIRONMENTS
+## A Comparative Analysis of Common Myna Calls in Urban and Semi-Rural Environments: Effects of Temperature and Humidity
 ########################
 #Correlation Graphs
 setwd()
